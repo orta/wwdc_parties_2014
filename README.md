@@ -3,7 +3,7 @@
 
 | Day | Host | Description |  Map | URL |
 |-----------|-----------|------------|------------|---|
-| M - June 5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
+| M June 5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
 
 
 [WWDC URL]: https://developer.apple.com/wwdc/events/
