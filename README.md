@@ -11,10 +11,11 @@
 | Mon&nbsp;June&nbsp;2 | 5by5 | *5by5 WWDC 2014 Meetup* - Hang out with fellow listeners and meet the hosts of your favorite 5by5.tv podcasts while enjoying free food and drinks at New Relic's beautiful San Francisco office. | [FbF map][] | [FbF URL][] |
 | Mon&nbsp;June&nbsp;2 | Xamarin | *Xamarin's WWDC 2014 Party* - Join us for drinks, meet other mobile developers, show off your apps and discuss the latest Apple announcements.  Even if you’re not attending WWDC, you and your friends are welcome. | [XA map][] | [XA URL][] |
 | Tue&nbsp;June&nbsp;3 | Layer | *Open House at Layer* -  Expect drinks, great eats and exceptional company in our new Mission District space. Meet the Layer team, hang out with other developers and take in the sunset over the Sutro skyline. | [LY map][] | [LY URL][] |
-| Tue&nbsp;June&nbsp;3 | Firebase | *Firebase + Pebble WWDC Happy Hour* - Pebble provides an awesome SDK to build apps for your Pebble watch. Using Firebase, you can easily build multiplayer Pebble games and advanced connected apps without setting up a server. Join us for a happy hour during WWDC to learn more about the two APIs! | [FP map][] | [FP URL][] |
-| Tue&nbsp;June&nbsp;3 | Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming.  What does iOS 8 mean for game developers, what changes should they be aware of in iTunes and how could the rumored Apple TV come into the mix. | [PG map][] | [PG URL][] |
+| Tue&nbsp;June&nbsp;3 | Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
+| Tue&nbsp;June&nbsp;3 | Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
 | Tue&nbsp;June&nbsp;3 | Foursquare | *Foursquare WWDC Event* -  Join us for an evening of food and drinks at Foursquare SF! (iOS developers only) | [FQ map][] | [FQ URL][] |
-| Tue&nbsp;June&nbsp;3 | NSHipster | *NSHipster Pub Quiz - WWDC 2014* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz!. | [NS map][] | [NS URL][] |
+| Tue&nbsp;June&nbsp;3 | NSHipster | *NSHipster Pub Quiz* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz! | [NS map][] | [NS URL][] |
+| Wed&nbsp;June&nbsp;4 | WWDCgirls | *WWDCgirls Fundraising Party* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [WG map][] | [EG URL][] |
 | Thur&nbsp;June&nbsp;5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
 
 
@@ -27,6 +28,9 @@
 
 [CR URL]: http://try.crashlytics.com/events/wwdc/2014/
 [CR map]: http://maps.google.com/maps?f=q&hl=en&q=620%20Jones%20St,%20San%20Francisco%2C+San+Francisco%2C+CA%2C+94107%2C+us
+
+[WG URL]: http://www.eventbrite.com/e/wwdcgirls-fundraising-party-benefitting-app-camp-for-girls-tickets-11611569517?aff=eorg
+[WG map]: https://www.google.com/maps/place/New+Relic/@37.791354,-122.393048,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7fd7ea239481:0xd46c50778b436768
 
 [CS URL]: https://www.eventbrite.com/e/core-sushi-tickets-11205175983
 [CS map]: http://maps.google.com/maps?f=q&hl=en&q=1651%20W%20Campbell%20Ave%20Campbell,%20CA%2095008%2C+CA%2C+94107%2C+us
