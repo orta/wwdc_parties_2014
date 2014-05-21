@@ -11,11 +11,11 @@
 | Mon&nbsp;June&nbsp;2 | 5by5 | *5by5 WWDC 2014 Meetup* - Hang out with fellow listeners and meet the hosts of your favorite 5by5.tv podcasts while enjoying free food and drinks at New Relic's beautiful San Francisco office. | [FbF map][] | [FbF URL][] |
 | Mon&nbsp;June&nbsp;2 | Xamarin | *Xamarin's WWDC 2014 Party* - Join us for drinks, meet other mobile developers, show off your apps and discuss the latest Apple announcements.  Even if you’re not attending WWDC, you and your friends are welcome. | [XA map][] | [XA URL][] |
 | Tue&nbsp;June&nbsp;3 | Layer | *Open House at Layer* -  Expect drinks, great eats and exceptional company in our new Mission District space. Meet the Layer team, hang out with other developers and take in the sunset over the Sutro skyline. | [LY map][] | [LY URL][] |
-| Tue&nbsp;June&nbsp;3 | Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
-| Tue&nbsp;June&nbsp;3 | Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
 | Tue&nbsp;June&nbsp;3 | Foursquare | *Foursquare WWDC Event* -  Join us for an evening of food and drinks at Foursquare SF! (iOS developers only) | [FQ map][] | [FQ URL][] |
 | Tue&nbsp;June&nbsp;3 | NSHipster | *NSHipster Pub Quiz* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz! | [NS map][] | [NS URL][] |
 | Wed&nbsp;June&nbsp;4 | WWDCgirls | *WWDCgirls Fundraising Party* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [WG map][] | [WG URL][] |
+| Wed&nbsp;June&nbsp;4 | Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
+| Wed&nbsp;June&nbsp;4 | Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
 | Thur&nbsp;June&nbsp;5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
 
 
