@@ -31,6 +31,7 @@
 | NSHipster | *NSHipster Pub Quiz* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz! | [NS map][] | [NS URL][] |
 | Sketch Meetup | *Sketch Meetup* -  Come to say hi the people behind Sketch, everyone's new favorite tool for digital design. | [SK map][] | [SK URL][] |
 | Yelp | *WWDC 2014 After Party* - Drinks + Hors D'oeuvres | [YP map][] | [YP URL][] |
+| Square | *WWDC Reception* - Dinner + drinks + techtalks | [SQ map] | [SQ URL]
 
 ### Wednesday June 4th
 
@@ -105,3 +106,6 @@ If you want push notifications about dates etc, you should take a look at the ap
 
 [JDBP URL]: http://jamesdempsey.net/live-near-wwdc-2014
 [JDBP map]: https://www.google.com/maps/place/50+Mason+Social+House/@37.784021,-122.409133,17z/data=!3m1!4b1!4m2!3m1!1s0x808580859a9c3337:0xd910502878a32755
+
+[SQ map]: https://www.google.com/maps/place/Square,+Inc./@37.775605,-122.418182,17z/data=!3m1!4b1!4m2!3m1!1s0x80858081cea671ed:0xd5bf34d238e93767
+[SQ URL]: https://guestlistapp.com/events/253398
