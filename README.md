@@ -9,7 +9,6 @@
 | Mon&nbsp;June&nbsp;2 | @janeylicious | *Core Sushi* - Join us for epic omakase sushi night with fellow developers before WWDC madness kicks in! | [CS map][] | [CS URL][] |
 | Mon&nbsp;June&nbsp;2 | Tap Sense | * π x 2* - Join us to learn about our 10 Million Dollar RTB Fund for app publishers. There will be food, drinks, pool, and for the second year in a row, hot apple pie. | [TS map][] | [TS URL][] |
 | Mon&nbsp;June&nbsp;2 | 5by5 | *5by5 WWDC 2014 Meetup* - JHang out with fellow listeners and meet the hosts of your favorite 5by5.tv podcasts while enjoying free food and drinks at New Relic's beautiful San Francisco office. | [FbF map][] | [FbF URL][] |
-
 | Thur&nbsp;June&nbsp;5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
 
 
