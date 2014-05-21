@@ -97,7 +97,7 @@ If you want push notifications about dates etc, you should take a look at the ap
 [PG URL]: http://www.eventbrite.co.uk/e/pg-mobile-mixer-wwdc-chukong-changyou-appflood-everyplay-tickets-10286490169
 [PG map]: https://www.google.de/maps/place/Vessel/@37.788941,-122.406704,17z/data=!3m1!4b1!4m2!3m1!1s0x8085808936875e21:0x2d8bfdc0fdc8ae35
 
-[WWDC URL]: https://developer.apple.com/wwdc/events/
+[WWDC URL]: https://developer.apple.com/wwdc/schedule/events/
 [WWDC map]: https://www.google.com/maps/preview?client=safari&q=750+howard+street+94103&ie=UTF-8&hq=&hnear=0x808580876a59eefb:0xf5aee847734859a9,750+Howard+St,+San+Francisco,+CA+94103&gl=us&ei=HpV8U_R876-xBL6agMAN&ved=0CCsQ8gEwAA"
 
 [YP URL]: http://www.eventbrite.com/e/yelp-wwdc-2014-after-party-tickets-11548049527
