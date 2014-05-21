@@ -18,13 +18,18 @@
 | Wed&nbsp;June&nbsp;4 | Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
 | Wed&nbsp;June&nbsp;4 | Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
 | Thur&nbsp;June&nbsp;5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
+| Thur&nbsp;June&nbsp;5 | NerdBig Nerd Ranch | *Big Arcade* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [NR map][] | [NR URL][] |
 
 [SK URL]: http://www.eventbrite.co.uk/e/sketch-meetup-at-wwdc-tickets-11470244811?aff=es2&rank=3
 [SK map]: https://maps.google.com/maps?client=safari&oe=UTF-8&q=965+Mission+St+2nd+floor+San+Francisco,+CA+94103&ie=UTF-8&hq=&hnear=0x8085808417ec1621:0x1c57b953828c555d,965+Mission+St,+San+Francisco,+CA+94103&gl=us&ei=Gqx8U4THIOjfsASPxYHIBg&ved=0CCoQ8gEwAA
 
-
 [MI URL]: http://sfmacindie.com
 [MI map]: https://maps.google.com/maps?q=jillian%27s&hl=en&sll=37.784554,-122.404218&sspn=0.011125,0.016115&near=101+4th+St,+Westfield+Metreon,+San+Francisco,+CA+94103&geocode=CVXcktNvp-TaFeeIQAIdbke0-Cn7OG0Nh4CFgDFz6zWZxQGZLQ&hq=jillian%27s&t=m&cid=10296979529953173809&z=16&iwloc=A
+
+
+[NR URL]: http://www.eventbrite.com/e/big-nerd-ranchs-big-arcade-wwdc-2014-tickets-11390139213
+[NR map]: https://maps.google.com/maps?client=safari&q=Children's+Creativity+Museum+221+4th+St+San+Francisco,+CA+94103&ie=UTF-8&ei=qax8U5iLC5XJsQS3koLYAQ&ved=0CAYQ_AUoAQ
+
 
 [CP URL]: http://www.meetup.com/CocoaPods-SF/events/177557362/
 [CP map]: http://maps.google.com/maps?f=q&hl=en&q=645+Harrison+St.+3rd+Floor%2C+San+Francisco%2C+CA%2C+94107%2C+us
