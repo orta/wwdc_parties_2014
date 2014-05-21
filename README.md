@@ -13,11 +13,14 @@
 | Tue&nbsp;June&nbsp;3 | Layer | *Open House at Layer* -  Expect drinks, great eats and exceptional company in our new Mission District space. Meet the Layer team, hang out with other developers and take in the sunset over the Sutro skyline. | [LY map][] | [LY URL][] |
 | Tue&nbsp;June&nbsp;3 | Foursquare | *Foursquare WWDC Event* -  Join us for an evening of food and drinks at Foursquare SF! (iOS developers only) | [FQ map][] | [FQ URL][] |
 | Tue&nbsp;June&nbsp;3 | NSHipster | *NSHipster Pub Quiz* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz! | [NS map][] | [NS URL][] |
+| Tue&nbsp;June&nbsp;3 | Sketch Meetup | *Sketch Meetup* -  Come to say hi the people behind Sketch, everyone's new favorite tool for digital design. | [SK map][] | [SK URL][] |
 | Wed&nbsp;June&nbsp;4 | WWDCgirls | *WWDCgirls Fundraising Party* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [WG map][] | [WG URL][] |
 | Wed&nbsp;June&nbsp;4 | Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
 | Wed&nbsp;June&nbsp;4 | Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
 | Thur&nbsp;June&nbsp;5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
 
+[SK URL]: http://www.eventbrite.co.uk/e/sketch-meetup-at-wwdc-tickets-11470244811?aff=es2&rank=3
+[SK map]: https://maps.google.com/maps?client=safari&oe=UTF-8&q=965+Mission+St+2nd+floor+San+Francisco,+CA+94103&ie=UTF-8&hq=&hnear=0x8085808417ec1621:0x1c57b953828c555d,965+Mission+St,+San+Francisco,+CA+94103&gl=us&ei=Gqx8U4THIOjfsASPxYHIBg&ved=0CCoQ8gEwAA
 
 
 [MI URL]: http://sfmacindie.com
