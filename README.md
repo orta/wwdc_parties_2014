@@ -17,7 +17,7 @@
 | Host | Description |  Map | URL |
 |-----------|-----------|------------|------------|---|
 | CocoaPods | *CocoaPods Alt SOTU* - Annual CocoaPods meetup aroundWWDC, meet the people building the libraries you use. | [CP map][] | [CP URL][] |
-| Crashlytic + Twitter | *Crashlytics + Twitter Kick Off* - The hottest WWDC party 2 years running is back! | [CR map][] | [CR URL][] |
+| Crashlytics + Twitter | *Crashlytics + Twitter Kick Off* - The hottest WWDC party 2 years running is back! | [CR map][] | [CR URL][] |
 | Tap Sense | * π x 2* - Join us to learn about our 10 Million Dollar RTB Fund for app publishers. There will be food, drinks, pool, and for the second year in a row, hot apple pie. | [TS map][] | [TS URL][] |
 | 5by5 | *5by5 WWDC 2014 Meetup* - Hang out with fellow listeners and meet the hosts of your favorite 5by5.tv podcasts while enjoying free food and drinks at New Relic's beautiful San Francisco office. | [FbF map][] | [FbF URL][] |
 | Xamarin | *Xamarin's WWDC 2014 Party* - Join us for drinks, meet other mobile developers, show off your apps and discuss the latest Apple announcements.  Even if you’re not attending WWDC, you and your friends are welcome. | [XA map][] | [XA URL][] |
