@@ -51,7 +51,7 @@
 
 If you want push notifications about dates etc, you should take a look at the app [Party List](http://www.wwdcpartylist.com).
 
-If you want a calendar, go to the bottom of [wwdcparties.com](http://wwdcparties.com) ( or click [here](webcal://wwdcparties.com/calendar) )
+If you want a calendar, go to the bottom of [wwdcparties.com](http://wwdcparties.com) 
 
 [SK URL]: http://www.eventbrite.co.uk/e/sketch-meetup-at-wwdc-tickets-11470244811?aff=es2&rank=3
 [SK map]: https://maps.google.com/maps?client=safari&oe=UTF-8&q=965+Mission+St+2nd+floor+San+Francisco,+CA+94103&ie=UTF-8&hq=&hnear=0x8085808417ec1621:0x1c57b953828c555d,965+Mission+St,+San+Francisco,+CA+94103&gl=us&ei=Gqx8U4THIOjfsASPxYHIBg&ved=0CCoQ8gEwAA
