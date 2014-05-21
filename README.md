@@ -1,24 +1,46 @@
 ![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc14-home-branding.png)
 
 
-| Day | Host | Description |  Map | URL |
+### Sunday June 1st
+
+| Host | Description |  Map | URL |
 |-----------|-----------|------------|------------|---|
-| Sun&nbsp;June&nbsp;1 | MacIndie | *sfMacIndie* - sfMacIndie is for independent Mac and iOS developers, designers, WWDC and AltConf attendees and anyone else who's interested. | [MI map][] | [MI URL][] |
-| Mon&nbsp;June&nbsp;2 | CocoaPods | *CocoaPods Alt SOTU* - Annual CocoaPods meetup aroundWWDC, meet the people building the libraries you use. | [CP map][] | [CP URL][] |
-| Mon&nbsp;June&nbsp;2 | Crashlytics | *Crashlytics Kick Off* - The hottest WWDC party 2 years running is back! | [CR map][] | [CR URL][] |
-| Mon&nbsp;June&nbsp;2 | @janeylicious | *Core Sushi* - Join us for epic omakase sushi night with fellow developers before WWDC madness kicks in! | [CS map][] | [CS URL][] |
-| Mon&nbsp;June&nbsp;2 | Tap Sense | * π x 2* - Join us to learn about our 10 Million Dollar RTB Fund for app publishers. There will be food, drinks, pool, and for the second year in a row, hot apple pie. | [TS map][] | [TS URL][] |
-| Mon&nbsp;June&nbsp;2 | 5by5 | *5by5 WWDC 2014 Meetup* - Hang out with fellow listeners and meet the hosts of your favorite 5by5.tv podcasts while enjoying free food and drinks at New Relic's beautiful San Francisco office. | [FbF map][] | [FbF URL][] |
-| Mon&nbsp;June&nbsp;2 | Xamarin | *Xamarin's WWDC 2014 Party* - Join us for drinks, meet other mobile developers, show off your apps and discuss the latest Apple announcements.  Even if you’re not attending WWDC, you and your friends are welcome. | [XA map][] | [XA URL][] |
-| Tue&nbsp;June&nbsp;3 | Layer | *Open House at Layer* -  Expect drinks, great eats and exceptional company in our new Mission District space. Meet the Layer team, hang out with other developers and take in the sunset over the Sutro skyline. | [LY map][] | [LY URL][] |
-| Tue&nbsp;June&nbsp;3 | Foursquare | *Foursquare WWDC Event* -  Join us for an evening of food and drinks at Foursquare SF! (iOS developers only) | [FQ map][] | [FQ URL][] |
-| Tue&nbsp;June&nbsp;3 | NSHipster | *NSHipster Pub Quiz* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz! | [NS map][] | [NS URL][] |
-| Tue&nbsp;June&nbsp;3 | Sketch Meetup | *Sketch Meetup* -  Come to say hi the people behind Sketch, everyone's new favorite tool for digital design. | [SK map][] | [SK URL][] |
-| Wed&nbsp;June&nbsp;4 | WWDCgirls | *WWDCgirls Fundraising Party* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [WG map][] | [WG URL][] |
-| Wed&nbsp;June&nbsp;4 | Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
-| Wed&nbsp;June&nbsp;4 | Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
-| Thur&nbsp;June&nbsp;5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
-| Thur&nbsp;June&nbsp;5 | NerdBig Nerd Ranch | *Big Arcade* - Ready for the next level? Game on. Join Big Nerd Ranch June 5 for our annual get together at the Creativity Museum | [NR map][] | [NR URL][] |
+| MacIndie | *sfMacIndie* - sfMacIndie is for independent Mac and iOS developers, designers, WWDC and AltConf attendees and anyone else who's interested. | [MI map][] | [MI URL][] |
+
+### Monday June 2nd
+
+| Host | Description |  Map | URL |
+|-----------|-----------|------------|------------|---|
+| CocoaPods | *CocoaPods Alt SOTU* - Annual CocoaPods meetup aroundWWDC, meet the people building the libraries you use. | [CP map][] | [CP URL][] |
+| Crashlytics | *Crashlytics Kick Off* - The hottest WWDC party 2 years running is back! | [CR map][] | [CR URL][] |
+| @janeylicious | *Core Sushi* - Join us for epic omakase sushi night with fellow developers before WWDC madness kicks in! | [CS map][] | [CS URL][] |
+| Tap Sense | * π x 2* - Join us to learn about our 10 Million Dollar RTB Fund for app publishers. There will be food, drinks, pool, and for the second year in a row, hot apple pie. | [TS map][] | [TS URL][] |
+| 5by5 | *5by5 WWDC 2014 Meetup* - Hang out with fellow listeners and meet the hosts of your favorite 5by5.tv podcasts while enjoying free food and drinks at New Relic's beautiful San Francisco office. | [FbF map][] | [FbF URL][] |
+| Xamarin | *Xamarin's WWDC 2014 Party* - Join us for drinks, meet other mobile developers, show off your apps and discuss the latest Apple announcements.  Even if you’re not attending WWDC, you and your friends are welcome. | [XA map][] | [XA URL][] |
+
+### Tuesday June 3rd
+
+| Host | Description |  Map | URL |
+|-----------|-----------|------------|------------|---|
+| Layer | *Open House at Layer* -  Expect drinks, great eats and exceptional company in our new Mission District space. Meet the Layer team, hang out with other developers and take in the sunset over the Sutro skyline. | [LY map][] | [LY URL][] |
+| Foursquare | *Foursquare WWDC Event* -  Join us for an evening of food and drinks at Foursquare SF! (iOS developers only) | [FQ map][] | [FQ URL][] |
+| NSHipster | *NSHipster Pub Quiz* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz! | [NS map][] | [NS URL][] |
+| Sketch Meetup | *Sketch Meetup* -  Come to say hi the people behind Sketch, everyone's new favorite tool for digital design. | [SK map][] | [SK URL][] |
+
+### Wednesday June 4th
+
+| Host | Description |  Map | URL |
+|-----------|-----------|------------|------------|---|
+| WWDCgirls | *WWDCgirls Fundraising Party* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [WG map][] | [WG URL][] |
+| Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
+| Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
+
+### Thursday June 5th
+
+| Host | Description |  Map | URL |
+|-----------|-----------|------------|------------|---|
+| Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
+| NerdBig Nerd Ranch | *Big Arcade* - Ready for the next level? Game on. Join Big Nerd Ranch June 5 for our annual get together at the Creativity Museum | [NR map][] | [NR URL][] |
 
 If you want push notifications about dates etc, you should take a look at the app [Party List](http://www.wwdcpartylist.com).
 
