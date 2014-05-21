@@ -26,6 +26,7 @@
 | Foursquare | *Foursquare WWDC Event* -  Join us for an evening of food and drinks at Foursquare SF! (iOS developers only) | [FQ map][] | [FQ URL][] |
 | NSHipster | *NSHipster Pub Quiz* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz! | [NS map][] | [NS URL][] |
 | Sketch Meetup | *Sketch Meetup* -  Come to say hi the people behind Sketch, everyone's new favorite tool for digital design. | [SK map][] | [SK URL][] |
+| Yelp | *WWDC 2014 After Party* - Drinks + Hors D'oeuvres | [YP map][] | [YP URL][] |
 
 ### Wednesday June 4th
 
@@ -93,3 +94,6 @@ If you want push notifications about dates etc, you should take a look at the ap
 
 [WWDC URL]: https://developer.apple.com/wwdc/events/
 [WWDC map]: https://www.google.com/maps/preview?client=safari&q=750+howard+street+94103&ie=UTF-8&hq=&hnear=0x808580876a59eefb:0xf5aee847734859a9,750+Howard+St,+San+Francisco,+CA+94103&gl=us&ei=HpV8U_R876-xBL6agMAN&ved=0CCsQ8gEwAA"
+
+[YP URL]: http://www.eventbrite.com/e/yelp-wwdc-2014-after-party-tickets-11548049527
+[YP map]: https://www.google.com/maps/place/140+New+Montgomery+St/@37.7866643,-122.3997737,17z/data=!3m1!4b1!4m2!3m1!1s0x808580886865b1a7:0x3854c9a3952ea14b
