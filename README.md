@@ -15,7 +15,7 @@
 | Tue&nbsp;June&nbsp;3 | Pocket Gamer | *★ PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay★* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
 | Tue&nbsp;June&nbsp;3 | Foursquare | *Foursquare WWDC Event* -  Join us for an evening of food and drinks at Foursquare SF! (iOS developers only) | [FQ map][] | [FQ URL][] |
 | Tue&nbsp;June&nbsp;3 | NSHipster | *NSHipster Pub Quiz* -  Come one come all and join us at the beautiful New Relic offices for the 2nd annual WWDC NSHipster Pub Quiz! | [NS map][] | [NS URL][] |
-| Wed&nbsp;June&nbsp;4 | WWDCgirls | *WWDCgirls Fundraising Party* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [WG map][] | [EG URL][] |
+| Wed&nbsp;June&nbsp;4 | WWDCgirls | *WWDCgirls Fundraising Party* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [WG map][] | [WG URL][] |
 | Thur&nbsp;June&nbsp;5 | Apple | *WWDC Bash* - Revel in a one-of-a-kind experience with exceptional music, great food and drinks, and the cheerful company of new friends| [WWDC map][] | [WWDC URL][] |
 
 
