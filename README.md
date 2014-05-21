@@ -50,6 +50,7 @@
 | NerdBig Nerd Ranch | *Big Arcade* - Ready for the next level? Game on. Join Big Nerd Ranch June 5 for our annual get together at the Creativity Museum | [NR map][] | [NR URL][] |
 
 If you want push notifications about dates etc, you should take a look at the app [Party List](http://www.wwdcpartylist.com).
+
 If you want a calendar, go to the bottom of [wwdcparties.com](http://wwdcparties.com) ( or click [here](webcal://wwdcparties.com/calendar) )
 
 [SK URL]: http://www.eventbrite.co.uk/e/sketch-meetup-at-wwdc-tickets-11470244811?aff=es2&rank=3
