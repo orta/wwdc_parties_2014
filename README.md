@@ -39,6 +39,7 @@
 | WWDCgirls | *WWDCgirls Fundraising Party* -  Please join WWDCGirls in a happy hour benefitting the non-profit App Camp For Girls. Meet and mingle, all with the aim of supporting this great cause! | [WG map][] | [WG URL][] |
 | Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
 | Pocket Gamer | *PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
+| James Dempsey and the Breakpoints | *LIVE near WWDC 2014* -  Join us for our yearly musical romp through Apple development technologies, including the new song *Goto Fail*, plus lots of past favorites. Open admission, no cover, no ticket required. | [JDBP map][] | [JDBP URL][] |
 
 ### Thursday June 5th
 
@@ -101,3 +102,6 @@ If you want push notifications about dates etc, you should take a look at the ap
 
 [YP URL]: http://www.eventbrite.com/e/yelp-wwdc-2014-after-party-tickets-11548049527
 [YP map]: https://www.google.com/maps/place/140+New+Montgomery+St/@37.7866643,-122.3997737,17z/data=!3m1!4b1!4m2!3m1!1s0x808580886865b1a7:0x3854c9a3952ea14b
+
+[JDBP URL]: http://jamesdempsey.net/live-near-wwdc-2014
+[JDBP map]: https://www.google.com/maps/place/50+Mason+Social+House/@37.784021,-122.409133,17z/data=!3m1!4b1!4m2!3m1!1s0x808580859a9c3337:0xd910502878a32755
