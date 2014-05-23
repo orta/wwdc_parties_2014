@@ -33,7 +33,7 @@
 | Yelp | *WWDC 2014 After Party* - Drinks + Hors D'oeuvres | [YP map][] | [YP URL][] |
 | Square | *WWDC Reception* - Dinner + drinks + techtalks | [SQ map][] | [SQ URL][] |
 | Dropbox | *Dropbox Mixer* - Join Dropbox for a night of food, drinks, and insights | [DB map][] | [DB URL][] |
-| The Talk Show | *The Talk Show* - Join John Gruber and surprise guest(s) for a live episode of The Talk Show. Ticket information coming soon. | [DB map][] | [DB URL][] |
+| The Talk Show | *The Talk Show* - Join John Gruber and surprise guest(s) for a live episode of The Talk Show. Ticket information coming soon. | [Map][] | [Tickets][] |
 
 
 ### Wednesday June 4th
