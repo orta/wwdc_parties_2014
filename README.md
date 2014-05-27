@@ -5,13 +5,13 @@
 | Host | Description |  Map | URL |
 |-----------|-----------|------------|------------|---|
 | @janeylicious | *Core Sushi* - Join us for epic omakase sushi night with fellow developers before WWDC madness kicks in! | [CS map][] | [CS URL][] |
-| @DiscoverAero | *Aero Adventure* - Scavenger Hunt using iBeacon and CoreBluetooth apps around town. No cost or registration required. Much fun! | [DA map][] | [DA URL] |
 
 ### Sunday June 1st
 
 | Host | Description |  Map | URL |
 |-----------|-----------|------------|------------|---|
 | MacIndie | *sfMacIndie* - sfMacIndie is for independent Mac and iOS developers, designers, WWDC and AltConf attendees and anyone else who's interested. | [MI map][] | [MI URL][] |
+| @DiscoverAero | *Aero Adventure* - Scavenger Hunt using iBeacon and CoreBluetooth apps around town. No cost or registration required. Much fun! | [DA map][] | [DA URL] |
 
 ### Monday June 2nd
 
