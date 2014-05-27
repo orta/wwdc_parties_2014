@@ -5,7 +5,7 @@
 | Host | Description |  Map | URL |
 |-----------|-----------|------------|------------|---|
 | @janeylicious | *Core Sushi* - Join us for epic omakase sushi night with fellow developers before WWDC madness kicks in! | [CS map][] | [CS URL][] |
- 
+| @DiscoverAero | *Aero Adventure* - Scavenger Hunt using iBeacon and CoreBluetooth apps around town. No cost or registration required. Much fun! | [DA map][] | [DA URL] |
 
 ### Sunday June 1st
 
@@ -126,3 +126,6 @@ If you want a calendar, go to the bottom of [wwdcparties.com](http://wwdcparties
 
 [LC map]: https://www.google.com/maps/place/111+Minna+St/@37.7873536,-122.3993992,17z/data=!3m1!4b1!4m2!3m1!1s0x8085807d31e96213:0x76427a434faff838
 [LC URL]: http://go.localytics.com/WWDC_2014_Localytics_Registrations.html
+
+[DA map]: https://www.google.com/maps/place/Market+St+%26+4th+St/@37.786597,-122.404586,17z/data=!3m1!4b1!4m2!3m1!1s0x80858088869ca533:0xbeb43927f5ee2624
+[DA URL]: http://discoveraero.com/adventure
