@@ -5,6 +5,7 @@
 | Host | Description |  Map | URL |
 |-----------|-----------|------------|------------|---|
 | @janeylicious | *Core Sushi* - Join us for epic omakase sushi night with fellow developers before WWDC madness kicks in! | [CS map][] | [CS URL][] |
+ 
 
 ### Sunday June 1st
 
