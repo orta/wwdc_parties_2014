@@ -47,6 +47,8 @@
 | Firebase + Pebble | *Firebase + Pebble WWDC Happy Hour* - Join us for a happy hour during WWDC to learn more about the Pebble & Firebase APIs! | [FP map][] | [FP URL][] |
 | Pocket Gamer | *PG Mobile Mixer @ WWDC Chukong, ChangYou, AppFlood & Everyplay* - Join us as we discuss the implications of Apple's newest software and hardware on the world of mobile gaming. | [PG map][] | [PG URL][] |
 | James Dempsey and the Breakpoints | *LIVE near WWDC 2014* -  Join us for our yearly musical romp through Apple development technologies, including the new song *Goto Fail*, plus lots of past favorites. Open admission, no cover, no ticket required. | [JDBP map][] | [JDBP URL][] |
+| Release v3 | This is our third year running, come help make it our best yet! Come mingle with the PopSugar and ShopStyle engineering teams and enjoy free drinks and food. | [PS map][] | [PS URL][] |
+
 
 ### Thursday June 5th
 
@@ -117,6 +119,9 @@ If you want a calendar, go to the bottom of [wwdcparties.com](http://wwdcparties
 
 [JDBP URL]: http://jamesdempsey.net/live-near-wwdc-2014
 [JDBP map]: https://www.google.com/maps/place/50+Mason+Social+House/@37.784021,-122.409133,17z/data=!3m1!4b1!4m2!3m1!1s0x808580859a9c3337:0xd910502878a32755
+
+[PS URL]: http://www.eventbrite.com/e/popsugars-wwdc-release-v3-tickets-11784847797
+[PS map]: https://www.google.com/maps/place/W+San+Francisco/@37.785318,-122.400442,17z/data=!3m1!4b1!4m2!3m1!1s0x8085807d77b62311:0x84055e3c40a911eb
 
 [SQ map]: https://www.google.com/maps/place/Square,+Inc./@37.775605,-122.418182,17z/data=!3m1!4b1!4m2!3m1!1s0x80858081cea671ed:0xd5bf34d238e93767
 [SQ URL]: https://guestlistapp.com/events/253398
