@@ -28,6 +28,7 @@
 
 | Host | Description |  Map | URL |
 |-----------|-----------|------------|------------|---|
+| GitHub | *ReactiveCocoa Developer Conference* - Join us for a day of RAC talks at GitHub HQ! There will be a few short talks from RAC contributors and an open panel-style Q&A session for beginners and veterans alike to sink their teeth into.  | [RC map][] | [RC URL][] |
 | Localytics + Crittercism | *Localytics and Crittercism WWDC Party* - Join Localytics and Crittercism for a breather during WWDC2014. The party starts at 7pm at 111 Minna Gallery. Apps and drinks are on us, don't miss out (RSVP required)!  | [LC map][] | [LC URL][] |
 | Layer | *Open House at Layer* -  Expect drinks, great eats and exceptional company in our new Mission District space. Meet the Layer team, hang out with other developers and take in the sunset over the Sutro skyline. | [LY map][] | [LY URL][] |
 | Foursquare | *Foursquare WWDC Event* -  Join us for an evening of food and drinks at Foursquare SF! (iOS developers only) | [FQ map][] | [FQ URL][] |
@@ -128,6 +129,9 @@ If you want a calendar, go to the bottom of [wwdcparties.com](http://wwdcparties
 
 [DB map]: https://www.google.de/maps/place/Impact+Hub+Bay+Area/@37.757068,-122.388045,17z/data=!3m1!4b1!4m2!3m1!1s0x808f7fba39f659c7:0x2f0d3629e5479ecf
 [DB URL]: https://dropboxmixer.splashthat.com
+
+[RC map]: http://maps.google.com/maps?q=GitHub+HQ%3A+88+Colin+P+Kelly+Jr.+Street%2C+San+Francisco+
+[RC URL]: https://ti.to/github-events/reactive-cocoa-developer-conference-
 
 [LC map]: https://www.google.com/maps/place/111+Minna+St/@37.7873536,-122.3993992,17z/data=!3m1!4b1!4m2!3m1!1s0x8085807d31e96213:0x76427a434faff838
 [LC URL]: http://go.localytics.com/WWDC_2014_Localytics_Registrations.html
