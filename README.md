@@ -60,7 +60,7 @@
 
 If you want push notifications about dates etc, you should take a look at the app [Party List](http://www.wwdcpartylist.com).
 
-Also try WWDC Parties on the [App Store].(https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?ls=1&mt=8)
+Also try WWDC Parties on the [App Store](https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?ls=1&mt=8).
 
 If you want a calendar, go to the bottom of [wwdcparties.com](http://wwdcparties.com) 
 
